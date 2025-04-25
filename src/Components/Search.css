@@ -1,0 +1,21 @@
+.Search {
+    display: flex;
+    flex-direction: column;
+    padding: 0 8px;
+    width: 100%;
+    gap: 20px;
+  }
+
+  .Search-title {
+    padding: 0px 10px;
+    margin: 0;
+  }
+
+  .Search-select option {
+    max-height: 100px;
+    overflow-y: auto;
+  }
+  
+  .Search-continue {
+    margin-left: auto;
+  };

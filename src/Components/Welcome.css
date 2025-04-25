@@ -1,0 +1,10 @@
+.Welcome {
+    display: flex;
+    flex-direction: column;
+    padding: 0 8px;
+    gap: 20px;
+  }
+  
+  .Welcome-cancel {
+    margin-left: auto;
+  }
